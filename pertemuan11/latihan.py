@@ -21,8 +21,6 @@ def binarySearch(arr, targetVal):
 
   return -1
 
-
-
 data = [59, 40, 36, 40, 30, 26, 97, 8, 23, 31, 2, 40, 99, 70, 64, 36, 43, 20, 1, 9]
 print(f"Data: {data} ")
 
